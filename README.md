@@ -1,3 +1,3 @@
 # pricepred
 
-Hello, UAE!
+Hello, Sharjah!
